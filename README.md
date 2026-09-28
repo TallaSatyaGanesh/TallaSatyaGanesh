@@ -1,6 +1,6 @@
 # Hi 👋, I'm Talla Satya Ganesh
 
-<h3 align="center">B.Tech CSE Student | Aspiring Bioinformatics & AI/ML Researcher</h3>
+<h3 align="center">B.Tech CSE Student | Aspiring AI/ML Researcher & Software Devoleper </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TallaSatyaGanesh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
