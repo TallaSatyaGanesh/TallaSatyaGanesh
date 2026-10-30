@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Building practical software and AI-powered solutions to solve real-world problems
+  Building practical software and AI-powered solutions to solve real-world problems.
 </p>
 
 <p align="center">
